@@ -4,6 +4,7 @@ CrackMapExec Warpper in Bash
 ## Usage
 ```
 Usage: cme-spray.sh <Username List> <Target List> <Password List>
+
 Example: cme-spray.sh users.txt targets.txt passwords.txt
 ```
   
