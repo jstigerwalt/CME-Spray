@@ -2,7 +2,7 @@
 CrackMapExec Warpper in Bash
 
 ## Usage
-Usage: cme-spray.sh <Username List> <Target List> <Password List>
+`Usage: cme-spray.sh <Username List> <Target List> <Password List>`
   
 ## Additional
 Password Lockouts may happen! Know what you are doing!
